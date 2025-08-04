@@ -24,4 +24,5 @@ This repository contains my personal solutions to the [NeetCode](https://neetcod
 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | [C++](./medium/best-time-to-buy-and-sell-stock-ii.cpp) | [Link](https://neetcode.io/problems/best-time-to-buy-and-sell-stock-ii) |
 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [C++](./medium/majority-element-ii.cpp) | [Link](https://neetcode.io/problems/majority-element-ii) |
 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | [C++](./medium/subarray-sum-equals-k.cpp) | [Link](https://neetcode.io/problems/subarray-sum-equals-k) |
+| [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [C++](./hard/first-missing-positive.cpp) | [Link](https://neetcode.io/problems/first-missing-positive) |
 
