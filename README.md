@@ -25,4 +25,10 @@ This repository contains my personal solutions to the [NeetCode](https://neetcod
 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [C++](./medium/majority-element-ii.cpp) | [Link](https://neetcode.io/problems/majority-element-ii) |
 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | [C++](./medium/subarray-sum-equals-k.cpp) | [Link](https://neetcode.io/problems/subarray-sum-equals-k) |
 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [C++](./hard/first-missing-positive.cpp) | [Link](https://neetcode.io/problems/first-missing-positive) |
+| [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [C++](./easy/reverse-string.cpp) | [Link](https://neetcode.io/problems/reverse-string) |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [C++](./easy/valid-palindrome.cpp) | [Link](https://neetcode.io/problems/valid-palindrome) |
+| [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | [C++](./easy/valid-palindrome-ii.cpp) | [Link](https://neetcode.io/problems/valid-palindrome-ii) |
+| [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | [C++](./easy/merge-strings-alternately.cpp) | [Link](https://neetcode.io/problems/merge-strings-alternately) |
+| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [C++](./easy/merge-sorted-array.cpp) | [Link](https://neetcode.io/problems/merge-sorted-array) |
+| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [C++](./easy/remove-duplicates-from-sorted-array.cpp) | [Link](https://neetcode.io/problems/remove-duplicates-from-sorted-array) |
 
