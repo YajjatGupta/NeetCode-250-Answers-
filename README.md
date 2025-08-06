@@ -61,3 +61,14 @@ This repository contains C++ solutions for the NeetCode 250 problems, organized 
 | Reverse String | Easy | [C++](Two%20Pointers/Easy/ReverseString.cpp) | [LeetCode](https://leetcode.com/problems/reverse-string/) | [NeetCode](https://neetcode.io/problems/reverse-string) |
 | Valid Palindrome | Easy | [C++](Two%20Pointers/Easy/ValidPalindrome.cpp) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | [NeetCode](https://neetcode.io/problems/valid-palindrome) |
 | Valid Palindrome II | Easy | [C++](Two%20Pointers/Easy/ValidPalindromeII.cpp) | [LeetCode](https://leetcode.com/problems/valid-palindrome-ii/) | [NeetCode](https://neetcode.io/problems/valid-palindrome-ii) |
+
+### Medium
+
+| Problem | Difficulty | Code (C++) | LeetCode | NeetCode |
+|--------|------------|------------|----------|----------|
+| Two Sum II | Medium | [C++](Two%20Pointers/Medium/TwoSumII.cpp) | [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [NeetCode](https://neetcode.io/problems/two-sum-ii-input-array-is-sorted) |
+| 3Sum | Medium | [C++](Two%20Pointers/Medium/ThreeSum.cpp) | [LeetCode](https://leetcode.com/problems/3sum/) | [NeetCode](https://neetcode.io/problems/3sum) |
+| 4Sum | Medium | [C++](Two%20Pointers/Medium/FourSum.cpp) | [LeetCode](https://leetcode.com/problems/4sum/) | [NeetCode](https://neetcode.io/problems/4sum) |
+| Rotate Array | Medium | [C++](Two%20Pointers/Medium/RotateArray.cpp) | [LeetCode](https://leetcode.com/problems/rotate-array/) | [NeetCode](https://neetcode.io/problems/rotate-array) |
+| Container With Most Water | Medium | [C++](Two%20Pointers/Medium/ContainerWithMostWater.cpp) | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | [NeetCode](https://neetcode.io/problems/container-with-most-water) |
+| Boats to Save People | Medium | [C++](Two%20Pointers/Medium/BoatsToSavePeople.cpp) | [LeetCode](https://leetcode.com/problems/boats-to-save-people/) | [NeetCode](https://neetcode.io/problems/boats-to-save-people) |
