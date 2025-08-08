@@ -72,3 +72,9 @@ This repository contains C++ solutions for the NeetCode 250 problems, organized 
 | Rotate Array | Medium | [C++](Two%20Pointers/Medium/RotateArray.cpp) | [LeetCode](https://leetcode.com/problems/rotate-array/) | [NeetCode](https://neetcode.io/problems/rotate-array) |
 | Container With Most Water | Medium | [C++](Two%20Pointers/Medium/ContainerWithMostWater.cpp) | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | [NeetCode](https://neetcode.io/problems/container-with-most-water) |
 | Boats to Save People | Medium | [C++](Two%20Pointers/Medium/BoatsToSavePeople.cpp) | [LeetCode](https://leetcode.com/problems/boats-to-save-people/) | [NeetCode](https://neetcode.io/problems/boats-to-save-people) |
+
+### Hard
+
+| Problem             | Difficulty | Code (C++)                                       | LeetCode                                                       | NeetCode                                                     |
+| ------------------- | ---------- | ------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------ |
+| Trapping Rain Water | Hard       | [C++](Two%20Pointers/Hard/TrappingRainWater.cpp) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) | [NeetCode](https://neetcode.io/problems/trapping-rain-water) |
