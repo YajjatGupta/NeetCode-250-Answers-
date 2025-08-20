@@ -13,21 +13,15 @@ using namespace std;
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
-        if (strs.empty()) {
-            return "";
-        }
-        string pref = strs[0];
-        int preflen = pref.length();
+        if (strs.empty()) return "";
+        string prefix = strs[0];
         for (int i = 1; i < strs.size(); i++) {
-            string s = strs[i];
-            while (preflen > s.length() || pref != s.substr(0, preflen)) {
-                preflen--;
-                if (!preflen) {
-                    return "";
-                }
-                pref = pref.substr(0, preflen);
+            while (strs[i].find(prefix) != 0) {
+                prefix.pop_back();
+                if (prefix.empty()) return "";
             }
         }
-        return pref;
+        return prefix;
     }
 };
+
