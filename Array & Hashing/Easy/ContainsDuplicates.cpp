@@ -24,3 +24,21 @@ public:
         return false;
     }
 };
+
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+#include <unordered_set>
+
+class Solution2 {
+public:
+    bool containsDuplicate(vector<int> nums){
+        unordered_set<int> dups;
+        for(int i = 0;i<nums.size();i++){
+            if(dups.count(nums[i])){
+                return true;
+            }
+            dups.insert(nums[i]);
+        }
+        return false;
+    }
+};
